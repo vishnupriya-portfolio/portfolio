@@ -14,8 +14,8 @@ require 'phpmailer/src/PHPMailer.php';
 $recipients = array();
 
 $recipients[] = array(
-	'email' => '',
-	'name' => ''
+	'email' => 'vishnupriyamishra96@gmail.com',
+	'name' => 'Vishnupriya'
 );
 
 
